@@ -12,3 +12,6 @@ The second part was about the deconstruction, analysis and reconstruction of a m
  * Frequency Response, also with added noise
  * Isolation of specific Harmonics
  * Reconstruction of music signal from isolated harmonics
+
+
+MIT LICENSE
